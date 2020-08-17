@@ -2,6 +2,7 @@
 .third-block {
 	background-color: #e7f1f8;
 	height: 915px;
+
 }
 .third-block-width{
 	width: 1040px; 
@@ -231,7 +232,7 @@
 	position: relative;
 }
 .top-row-6{
-	width: 630px;
+	width: 785px;
 	margin: 0 auto;
 }
 
@@ -308,14 +309,69 @@ letter-spacing: 0.36px;
 	background-color: #3c5499;
 }
 .seventh-block-width{
+	width: 870px;
+	margin: 0 auto;
+	position: relative;
 
 }
+
+.seven-block-form {
+	width: 860px;
+	margin: 0 auto;
+
+}
+.form__name {
+	width: 414px;
+	background-color: #273a71;
+	padding: 20px 0 20px 20px;
+	margin-right: 28px;
+	margin-bottom: 30px;
+	border-radius: 5px;
+	border: none;
+
+}
+.form__email {
+	width: 414px;
+	padding: 20px 0 20px 20px;	
+	background-color: #273a71;
+	border-radius: 5px;
+	border: none;
+}
+.form__comment {
+	width: 860px;
+	background-color: #273a71;
+	height: 200px;
+	padding-left: 20px;
+	padding-top: 20px;
+	border-radius: 5px;
+	border: none;
+}
+input::-webkit-input-placeholder { color: white; }
+.form__comment::-webkit-input-placeholder { color: white; }
 footer{
 	height: 120px;
 	background-color: #344b8e;
 
 }
-
+.seven-block__button {
+	display: inline-block;
+	color: #ffffff;
+	font-family: "Titillium Web";
+	font-size: 18px;
+	font-weight: 600;
+	line-height: 73px;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 0.27px;
+	background-color: #30bae7;
+	width: 300px;
+	height: 70px;
+	border-radius: 3px;
+	position: relative;
+	left: 33%;
+	box-shadow: 0 4px #299ec4;
+	margin-top: 60px;
+}
 .eight-block-width {
 	width: 940px;
 	margin: 0 auto;
