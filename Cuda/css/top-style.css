@@ -11,6 +11,11 @@ header{
 	background-color: #87509c;
 	height: 65px;
 }
+html{
+
+    width: 100%;
+    max-width: 100%;
+    overflow-x: hidden;}
 .header-width {
 	padding-top: 20px;
 	width: 1000px;

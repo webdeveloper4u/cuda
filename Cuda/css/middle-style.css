@@ -1,4 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,300;0,400;0,600;0,700;0,900;1,300;1,400;1,600;1,700&display=swap');
+html{
+
+    width: 100%;
+    max-width: 100%;
+    overflow-x: hidden;}
+    
 .third-block {
 	background-color: #e7f1f8;
 	height: 915px;
